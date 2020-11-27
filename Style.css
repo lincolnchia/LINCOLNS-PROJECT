@@ -18,7 +18,7 @@ header p{
     color: white;
 }
 .banner{    
-    background-image:url("/images/backgroundblur.png");
+    background-image:url("images/backgroundblur.png");
     text-align: center;
     background-size: cover;
     background-position: center;
